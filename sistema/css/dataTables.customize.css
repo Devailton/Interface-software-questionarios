@@ -1,0 +1,77 @@
+.dataTable input{
+	height: 40px;
+	padding: 9px 5px;
+	border: 1px solid #e3e3e3;
+	border-radius: 0;
+	background: #fff;
+	font-size: 14px;
+	line-height: 20px;
+	color: #333;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-appearance: none;
+	display: inline-block;
+}
+
+.dataTable select{
+	height: 40px;
+}
+
+
+.dataTable thead {
+	background: #4dcd8e;
+	color: #FFF;
+}
+
+.dataTable .table-bordered>thead>tr>th {
+	border: 1px solid #00b85d;
+}
+
+.dataTable .table>thead:first-child>tr:first-child>th{
+	border-top: 0;
+}
+
+.dataTable .table-bordered>tbody>tr>td{
+	border: 1px solid #ddd;
+}
+
+.dataTable .table tr td {
+	border-top: 1px dotted #00b85d;
+}
+
+.dataTable .table-bordered {
+	border-top: 0;
+}
+
+.dataTable .table-bordered {
+	border: 1px solid #ddd;
+}
+
+.dataTable table {
+	border-spacing: 0;
+	border-collapse: collapse;
+}
+
+.dataTable .dataTables_length{
+	width: 25%;
+	margin-bottom: 20px;
+}
+
+.dataTable [name=DataTables_Table_0_length]{
+	width: 20%;
+	float: left;
+	margin-right: 20px;
+}
+
+.dataTable .dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+	color: white !important;
+	border: 1px solid #4dcd8e;
+	background-color: #00b85d;
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #00b85d), color-stop(100%, #00b85d));
+	background: -webkit-linear-gradient(top, #00b85d 0%, #00b85d 100%);
+	background: -moz-linear-gradient(top, #00b85d 0%, #00b85d 100%);
+	background: -ms-linear-gradient(top, #00b85d 0%, #00b85d 100%);
+	background: -o-linear-gradient(top, #00b85d 0%, #00b85d 100%);
+	background: linear-gradient(to bottom, #00b85d 0%, #00b85d 100%);
+}

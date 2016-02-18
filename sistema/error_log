@@ -1,0 +1,14 @@
+[27-Mar-2014 10:40:54] PHP Fatal error:  Call to undefined function  includes() in /home/wwwsuper/public_html/novo/noticias.php on line 108
+[27-Mar-2014 10:41:28] PHP Fatal error:  Call to undefined function  includes() in /home/wwwsuper/public_html/novo/noticias.php on line 108
+[27-Mar-2014 10:41:46] PHP Fatal error:  Call to undefined function  includes() in /home/wwwsuper/public_html/novo/noticias.php on line 108
+[27-Mar-2014 10:41:57] PHP Fatal error:  Call to undefined function  includes() in /home/wwwsuper/public_html/novo/noticias.php on line 108
+[27-Mar-2014 10:47:22] PHP Fatal error:  Call to undefined function  includes() in /home/wwwsuper/public_html/novo/noticias.php on line 108
+[29-Jan-2015 11:20:22] PHP Warning:  include(modulos/box-right-tree.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/wwwbusin/public_html/novo/quem-somos.php on line 84
+[29-Jan-2015 11:20:22] PHP Warning:  include(modulos/box-right-tree.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/wwwbusin/public_html/novo/quem-somos.php on line 84
+[29-Jan-2015 11:20:22] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'modulos/box-right-tree.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwwbusin/public_html/novo/quem-somos.php on line 84
+[30-Jan-2015 09:34:57] PHP Warning:  include(modulos/box-right-tre.php.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/wwwbusin/public_html/novo/planos.php on line 175
+[30-Jan-2015 09:34:57] PHP Warning:  include(modulos/box-right-tre.php.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/wwwbusin/public_html/novo/planos.php on line 175
+[30-Jan-2015 09:34:57] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'modulos/box-right-tre.php.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwwbusin/public_html/novo/planos.php on line 175
+[27-Feb-2015 11:14:31] PHP Warning:  include(modulos/busca.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/wwwbusin/public_html/sistema/entrevistador.php on line 17
+[27-Feb-2015 11:14:31] PHP Warning:  include(modulos/busca.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/wwwbusin/public_html/sistema/entrevistador.php on line 17
+[27-Feb-2015 11:14:31] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'modulos/busca.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwwbusin/public_html/sistema/entrevistador.php on line 17

@@ -1,0 +1,2 @@
+# Muda o arquivo de erro 404
+ErrorDocument 404 /erro404.php
